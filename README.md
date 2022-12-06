@@ -1,3 +1,5 @@
+TO BUY OR REDEEM IT IN A WIERD WAY HERE ---> https://discord.gg/bossloader
+
 # UPDATE 3.03
 
 ### Addded music to on login
