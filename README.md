@@ -3,8 +3,8 @@ TO BUY OR REDEEM IT IN A WIERD WAY HERE ---> https://discord.gg/bossloader
 # UPDATE 3.03
 
 ### Addded music to on login
-### Added where is it located
-
+### Added where is it located github, discord, website
+ 
 # UPDATE 2.7
 
 ### Added paid spoofers
