@@ -1,4 +1,14 @@
 TO BUY OR REDEEM IT IN A WIERD WAY HERE ---> https://discord.gg/bossloader
+RESELLER IS AtoHidan#7055
+OWNER OF THIS IS SkyDash#4150
+
+# UPDATE 4.2
+
+### Discord, Github and OpenMainMenu exe(s) uploaded and normal menu.
+
+# UPDATE 4.1
+
+### Random things to make this work
 
 # UPDATE 3.03
 
