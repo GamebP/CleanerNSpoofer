@@ -1,3 +1,5 @@
+# INFO
+
 ### TO BUY OR REDEEM IT IN A WIERD WAY HERE ---> https://discord.gg/bossloader
 ### RESELLER IS AtoHidan#7055
 ### OWNER OF THIS IS SkyDash#4150
