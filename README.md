@@ -2,7 +2,7 @@
 ### RESELLER IS AtoHidan#7055
 ### OWNER OF THIS IS SkyDash#4150
 
-# UPDATE 4.2
+# UPDATE 4.2 Latest
 
 ### Discord, Github and OpenMainMenu exe(s) uploaded and normal menu.
 
