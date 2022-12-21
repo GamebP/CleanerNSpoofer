@@ -1,14 +1,17 @@
 ## <p align="center"> Spoofer And Cleaner Pack
 
   # ⚙ How to use?
+  * [Buy it!](https://external.sell.app/?browse=products&cursor=&__cf_chl_rt_tk=BgWbhi8Gk9PFtESVy5wzdGH4OP83n6pgyrUrc9xo5tM-1671626522-0-gaNycGzNCKU)
   * Install it
+  * Extract It
   * Open it
+  * Read "tutorial.mp4"
   * Register with key / login with user n' pass
   * And there you go!
   
   # 💬 Have any questions?
-  * Current version : `v4.7.4.1 Release`
-  * Current build date : `December 10, Saturday, Year 2022.`
+  * Current version : [`Release Version: `](https://raw.githubusercontent.com/GamebP/CleanerNSpoofer/main/App-Version.txt)
+  * Current build date : `21.December`
   * [Discord server](https://discord.gg/invite/bossloader)
   
   # 💯 Bossloader
