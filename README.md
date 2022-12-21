@@ -10,7 +10,7 @@
   * And there you go!
   
   # 💬 Have any questions?
-  * Current version : [`Release Version: `](https://raw.githubusercontent.com/GamebP/CleanerNSpoofer/main/App-Version.txt)
+  * Current version : [`Release Version`](https://raw.githubusercontent.com/GamebP/CleanerNSpoofer/main/App-Version.txt)
   * Current build date : `21.December`
   * [Discord server](https://discord.gg/invite/bossloader)
   
